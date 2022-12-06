@@ -1,0 +1,6 @@
+c:\users\user\Desktop\semester 2 ft\PizzaOrder\PizzaOrder\bin\Debug\PizzaOrder.exe.config
+C:\Users\user\Desktop\semester 2 ft\PizzaOrder\PizzaOrder\obj\Debug\PizzaOrder.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\semester 2 ft\PizzaOrder\PizzaOrder\bin\Debug\PizzaOrder.exe
+C:\Users\user\Desktop\semester 2 ft\PizzaOrder\PizzaOrder\bin\Debug\PizzaOrder.pdb
+C:\Users\user\Desktop\semester 2 ft\PizzaOrder\PizzaOrder\obj\Debug\PizzaOrder.exe
+C:\Users\user\Desktop\semester 2 ft\PizzaOrder\PizzaOrder\obj\Debug\PizzaOrder.pdb
